@@ -411,7 +411,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/core" name="platform/system/core" groups="pdk" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
@@ -440,5 +439,6 @@
   <project path="external/bluetooth" name="jedroid/android_external_bluetooth" remote="jedroid" revision="master"/>
   <project path="hardware/iwlwifi" name="jedroid/android_hardware_iwlwifi" remote="jedroid" revision="master"/>
   <project path="frameworks/native" name="android/platform/frameworks/native" remote="nvidia_oss" revision="rel-20-mp1-partner"/>
+  <project path="system/core" name="jedroid/android_system_core" groups="pdk" remote="jedroid" revision="master"/>
 
 </manifest>
