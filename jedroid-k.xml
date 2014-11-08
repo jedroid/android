@@ -435,6 +435,7 @@
   <project path="bionic" name="jedroid/android_bionic" remote="jedroid" revision="master"/>
   <project path="device/nvidia/jedroid" name="jedroid/android_device_nvidia_jedroid" remote="jedroid" revision="master"/>
   <project path="device/nvidia/jedroid-kernel" name="jedroid/android_device_nvidia_jedroid-kernel" remote="jedroid" revision="master"/>
+  <project path="device/nvidia/jedroid-bootloader" name="jedroid/android_device_nvidia_jedroid-bootloader" remote="jedroid" revision="master"/>                                                                                              
   <project path="vendor/nvidia/jedroid" name="jedroid/android_vendor_nvidia_jedroid" remote="jedroid" revision="master"/>
   <project path="external/bluetooth" name="jedroid/android_external_bluetooth" remote="jedroid" revision="master"/>
   <project path="hardware/iwlwifi" name="jedroid/android_hardware_iwlwifi" remote="jedroid" revision="master"/>
